@@ -1,6 +1,6 @@
-#Solution for the challange
+Solution for the challange
 
-##steps
+steps:
 
 > npm install
 
